@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 40b7e331e4274d8408d2bca339ab4039
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WedgePrefab: {fileID: 8979208982161346191, guid: 798549bb7995a30408b00c85581cadbd, type: 3}
+  - PiePrefab: {fileID: 6074720864189791078, guid: 958e2725698e19e409ba9e29f41424d2, type: 3}
+  - EventLayer: {fileID: 7079775528570901458, guid: e4a6df597c300264fb216992fd765294, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

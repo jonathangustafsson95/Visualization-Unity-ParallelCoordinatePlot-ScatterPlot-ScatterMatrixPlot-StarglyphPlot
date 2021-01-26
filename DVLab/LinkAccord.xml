@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<linker>
+	<assembly fullname="Accord" >
+		<type fullname="Accord.3.8.0" preserve="all"></type>
+	</assembly>
+</linker>
